@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nightowltay
-- 👀 I’m interested in java, python, and blockchain
+- 👋 Hi, I’m @ouroboros-t!
+- 👀 I’m interested in OOP
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anything honestly, as long as it's okay that I'm a total beginner. 
+- 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me: message me on here!
 
 <!---
